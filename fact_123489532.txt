@@ -1,0 +1,1 @@
+A healthy cat has a temperature between 38 and 39 degrees Celcius.
